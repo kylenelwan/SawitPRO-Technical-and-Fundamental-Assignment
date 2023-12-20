@@ -1,1 +1,1 @@
-
+The counting and classifying program has been divided into 2 separate codes. However, both codes are similar with a few lines of code being deleted or commented out to specify each program function. The count program must be watched until the end of the video output to get the desired results. You can cut the video short by pressing Q.
